@@ -6,7 +6,9 @@
   <con:testStep type="groovy" name="Groovy Script" id="273278eb-8b99-4599-ac9d-52c75872f4b5">
     <con:settings/>
     <con:config>
-      <script/>
+      <script>testRunner.testCase.setPropertyValue("test","yum")
+
+return true</script>
     </con:config>
   </con:testStep>
   <con:testStep type="assertionteststep" name="Assertion" id="9092287e-b76c-4f87-a151-c4615770ae96">
@@ -26,6 +28,11 @@
       </con:entry>
     </con:config>
   </con:testStep>
-  <con:properties/>
+  <con:properties>
+    <con:property>
+      <con:name>test</con:name>
+      <con:value>yum</con:value>
+    </con:property>
+  </con:properties>
   <con:reportParameters/>
 </con:testCase>
