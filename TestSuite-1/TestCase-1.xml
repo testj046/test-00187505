@@ -6,7 +6,7 @@
   <con:testStep type="groovy" name="Groovy Script" id="273278eb-8b99-4599-ac9d-52c75872f4b5">
     <con:settings/>
     <con:config>
-      <script>testRunner.testCase.setPropertyValue("test","yum")
+      <script>testRunner.testCase.setPropertyValue("test","yum22")
 
 return true</script>
     </con:config>
@@ -31,7 +31,7 @@ return true</script>
   <con:properties>
     <con:property>
       <con:name>test</con:name>
-      <con:value>yum</con:value>
+      <con:value>yum22</con:value>
     </con:property>
   </con:properties>
   <con:reportParameters/>
