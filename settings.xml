@@ -5,7 +5,7 @@
   </con:settings>
   <con:vcsConfiguration>
     <con:vcsName>Git</con:vcsName>
-    <con:repositoryIdentifier>https://github.com/testj046/test-00187505.git</con:repositoryIdentifier>
+    <con:repositoryIdentifier>https://github.com/testj046/test-00187505</con:repositoryIdentifier>
   </con:vcsConfiguration>
   <con:requirements/>
   <con:properties/>
