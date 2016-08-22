@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:soapui-project id="2b031bb4-63d1-46bc-a2c0-c85b82ff6022" activeEnvironment="Default environment" name="case 00187505" lastOpened="2016-08-22T14:17:05.267-04:00" resourceRoot="" xmlns:con="http://eviware.com/soapui/config">
+  <con:settings>
+    <con:setting id="2b031bb4-63d1-46bc-a2c0-c85b82ff6022fileName">case-00187505</con:setting>
+  </con:settings>
+  <con:vcsConfiguration>
+    <con:vcsName>Git</con:vcsName>
+    <con:repositoryIdentifier>https://github.com/testj046/test-00187505.git</con:repositoryIdentifier>
+  </con:vcsConfiguration>
+  <con:requirements/>
+  <con:properties/>
+  <con:wssContainer/>
+  <con:databaseConnectionContainer/>
+  <con:oAuth2ProfileContainer/>
+  <con:reporting/>
+  <con:authRepository/>
+  <con:tags/>
+</con:soapui-project>
