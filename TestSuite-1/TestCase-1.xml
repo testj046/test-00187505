@@ -9,6 +9,23 @@
       <script/>
     </con:config>
   </con:testStep>
+  <con:testStep type="assertionteststep" name="Assertion" id="9092287e-b76c-4f87-a151-c4615770ae96">
+    <con:settings/>
+    <con:config xsi:type="con:AssertionTestStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+      <con:entry>
+        <con:id>91079b9b-9055-41b2-bec5-30335aa86795</con:id>
+        <con:isGroup>false</con:isGroup>
+        <con:sourceId>273278eb-8b99-4599-ac9d-52c75872f4b5</con:sourceId>
+        <con:propertyName>result</con:propertyName>
+        <con:assertion type="Simple Equals" name="Equals" id="ce75ed60-c865-42be-b87e-859544655dfb">
+          <con:configuration>
+            <patternText>true</patternText>
+            <caseSensitive>true</caseSensitive>
+          </con:configuration>
+        </con:assertion>
+      </con:entry>
+    </con:config>
+  </con:testStep>
   <con:properties/>
   <con:reportParameters/>
 </con:testCase>
